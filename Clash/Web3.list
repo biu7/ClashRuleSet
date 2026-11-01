@@ -85,6 +85,9 @@ DOMAIN-KEYWORD,binance
 DOMAIN-SUFFIX,binanceapi.com
 DOMAIN-SUFFIX,bnbstatic.com
 
+# > Aster
+DOMAIN-SUFFIX,asterdex.com
+
 # > BitGet
 DOMAIN-SUFFIX, bitget.com
 DOMAIN-SUFFIX, bitget.org
