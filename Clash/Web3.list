@@ -299,6 +299,8 @@ DOMAIN-SUFFIX,trustwalletapp.com
 # > Gate
 DOMAIN-SUFFIX,gate.ac
 DOMAIN-SUFFIX,gate.io
+DOMAIN-SUFFIX,gateio.ws
+DOMAIN-SUFFIX,gate.com
 
 # > Mexc
 DOMAIN-SUFFIX,mexc.com
